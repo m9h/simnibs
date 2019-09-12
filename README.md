@@ -28,7 +28,7 @@ We have included code or binaries from the following project to this repository:
 * [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
 * [CAT12](http://www.neuro.uni-jena.de/cat/)
 * [PETSc](https://www.mcs.anl.gov/petsc/)
-* [HYPRE](https://www.mcs.anl.gov/petsc://computation.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods)
+* [HYPRE](https://computation.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods)
 * [MPICH](https://www.mpich.org/)
 * [MSMPI](https://github.com/Microsoft/Microsoft-MPI)
 * [CYGWIN](https://www.cygwin.com/)
