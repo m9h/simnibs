@@ -23,7 +23,7 @@ Please see [the SimNIBS website](./docs/contributors.rst) for a complete list of
 
 ## 3rd Party Files
 We have included code or binaries from the following project to this repository:
-* [Gmsh](www.gmsh.info)
+* [Gmsh](https://www.gmsh.info)
 * [meshfix](https://github.com/MarcoAttene/MeshFix-V2.1)
 * [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
 * [CAT12](http://www.neuro.uni-jena.de/cat/)
